@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .showcase__video {
+        height: 290%;
+    }
+    .main {
+        font-size: 12px;
+    }
+}
+
